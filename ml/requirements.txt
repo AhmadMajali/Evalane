@@ -1,0 +1,2 @@
+-r ../backend/requirements.txt
+lightgbm>=4.0
