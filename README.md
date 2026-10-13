@@ -111,5 +111,5 @@ python evalane_comparison.py
 
 ## Team
 
-Built by a team of four at Mutah University: Ahmad Majali, Nara Al-Majali and Mayar Al-Hourani (dataset, model training and prediction pipeline) and Lama Al-Raie (web development).
+Built by a team of four at Mutah University: Ahmad Majali (team leader), Nara Al-Majali and Mayar Al-Hourani (dataset, model training and prediction pipeline) and Lama Al-Raie (web development).
 Supervisor: Dr. Ghayth Al-Mahadeen.
